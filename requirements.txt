@@ -1,0 +1,7 @@
+# File: requirements.txt
+
+fastapi
+uvicorn
+yfinance
+requests
+beautifulsoup4
